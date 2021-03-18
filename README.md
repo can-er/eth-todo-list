@@ -1,6 +1,8 @@
 
 # Ethereum - TodoList
-[![Quantstamp Status](https://quantstamp-badge.herokuapp.com/badge/can-er/eth-todo-list)](https://quantstamp-badge.herokuapp.com/start-audit/can-er/eth-todo-list)
+[![npm](https://img.shields.io/static/v1?label=npm&message=truffle&color=lightgrey)](https://img.shields.io/static/v1?label=npm&message=truffle&color=lightgrey)
+[![Solidity](https://img.shields.io/static/v1?label=Solidity&message=0.9.0&color=lightgrey)](https://img.shields.io/static/v1?label=Solidity&message=0.9.0&color=lightgrey)
+
 ## This project was carried out to learn how to code smart contracts, deploy a local environment and test transactions within a blockchain that runs locally.
 
     * Author: KORKUT C.
